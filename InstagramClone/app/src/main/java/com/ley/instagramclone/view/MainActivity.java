@@ -1,4 +1,4 @@
-package com.ley.instagramclone;
+package com.ley.instagramclone.view;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
