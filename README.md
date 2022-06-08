@@ -18,3 +18,7 @@ This file includes several different projects developed for educational purposes
 - Maps
 
 This is a simple application for learning how to include google maps into a project. User can save places on the map and make list of him/his own. After saving, user can view the saved places in the map again whenever its needed. This project includes RxJava and Room. 
+
+- InstagramClone
+
+This project is a basic implementation of the app which is called instagram. The app icludes a sign in and sign up page. User can use his/her e mail and password to sign in/up. This information kept in Firebase to verify the user. If sign in completed succesfully, user can login to the app. If not, he/she gets an error message like, enter a valid email and password ect. After login, user can share a photo and a comment. But before selecting a photo app asks user for the permission to open the gallery. If he/she presses the upload button, app redirects the user to the feed page. Post's info also kept in the Firebase. If there are lots of shared photos, app sorts the pictures by the date. If he/she decides to log out, he/she can't see the posts anymore. But if user stays logged in then he/she doesn't need to enter email and password everytime that app opens. 
